@@ -12,7 +12,7 @@
     { "src": "/(.*)", "dest": "/$1" }
   ],
   "env": {
-    "DEEPSEEK_API_KEY": "@deepseek-api-key",
+    "DEEPSEEK_API_KEY": "sk-1ed52979775749539bb244fa2aeefb64",
     "NODE_ENV": "production",
     "USE_MOCK": "false"
   }
